@@ -1,4 +1,6 @@
-# W3 Study Plan 📗
+# Green Book - W3 Study Plan 📗
+
+<img src="https://media.istockphoto.com/id/1363442691/vector/fun-green-superhero-background-in-pop-art-comics-book-style-cartoon-halftone-backdrop-design.jpg?s=612x612&w=0&k=20&c=V_Jjq7mzFOagVJ56LUkya073fXsJifzCN_JW_9LEqQs=" title="source: imgur.com" width="1000" height="100"  align="center"/></a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1088px-W3Schools_logo.svg.png" title="source: imgur.com" width="120" align="center"/></a>
 
