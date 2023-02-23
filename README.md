@@ -12,8 +12,6 @@ All tutorials I need to complete and practice.
 
 ## 📝Tutorials:
 
-Python Tutorial:
-
 <table border="1">
     <tr>
         <td>Tutorial</td>
