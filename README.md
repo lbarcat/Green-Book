@@ -4,6 +4,7 @@
 
 All tutorials I need to complete and practice.
 
+- Profile: https://wwww.w3profile.com/lbarcat
 - Score: 291 points 
 - Lessons read: 108
 - Stars: 1
@@ -79,4 +80,27 @@ All tutorials I need to complete and practice.
         <td>Intermediate</td>
         <td>12 hours</td>
     </tr>
+        <tr>
+        <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="source: imgur.com" width="30" align="center"/></a></td>
+        <td>0%</td>
+        <td>Intermediate</td>
+        <td>8 hours</td>
+    </tr>
+        <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" title="source: imgur.com" width="30" align="center"/></a></td>
+        <td>0%</td>
+        <td>Intermediate</td>
+        <td>8 hours</td>
+    </tr>
+        <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="source: imgur.com" width="30" align="center"/></a></td>
+        <td>0%</td>
+        <td>Intermediate</td>
+        <td>51 hours</td>
+    </tr>
 </table>
+
+## 📐Code Editor:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="source: imgur.com" width="50" align="center"/></a>
+<img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" title="source: imgur.com" width="50" align="center"/></a>
