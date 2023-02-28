@@ -5,9 +5,9 @@
 All tutorials I need to complete and practice.
 
 - Profile: https://wwww.w3profile.com/lbarcat
-- Score: 291 points 
-- Lessons read: 108
-- Stars: 1
+- Score: 340 points 
+- Lessons read: 157
+- Stars: 2
 - Quiz points: 88
 - Exercise points: 95
 
@@ -22,7 +22,7 @@ All tutorials I need to complete and practice.
     </tr>
     <tr>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="source: imgur.com" width="30" align="center"/></a></td>
-        <td>90%</td>
+        <td>100%</td>
         <td>Beginner friendly</td>
         <td>43 hours</td>
     </tr>
